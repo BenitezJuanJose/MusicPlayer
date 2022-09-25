@@ -1,0 +1,50 @@
+{
+    "music":[
+        {
+            "id":"0",
+            "name":"Lovely",
+            "artist":"Billie Eilish",
+            "genero":"Pop",
+            "img":"../img/portadas/BillieEilishlovely.webp",
+            "location":"../song/BillieEilishlovely.mp3",
+            "like":""
+        },
+        {  
+            "id":"1",
+            "name": "BZRP #52",
+            "artist": "Quevedo",
+            "genero":"Rap",
+            "img":"../img/portadas/quevedo.jpg",
+            "location": "../song/quevedoBZRP.mp3",
+            "like":""
+        },
+        {
+            "id":"2",
+            "name": "Hu-Tao",
+            "artist": "Hoyoverse",
+            "genero":"Pop",
+            "img":"../img/portadas/hu-tao.jpg",
+            "location": "../song/hutao.mp3",
+            "like":""
+            
+        },
+        {
+            "id":"3",
+            "name": "Shogun",
+            "artist": "Hoyoverse",
+            "genero":"Pop",
+            "img":"../img/portadas/shogun.jpg",
+            "location": "../song/shogun.mp3",
+            "like":""
+        },
+        {
+            "id":"4",
+            "name": "Eternal Flame",
+            "artist": "MindaRyn",
+            "genero":"Pop",
+            "img":"../img/portadas/likeflames.jpg",
+            "location": "../song/likeflames.mp3",
+            "like":""
+        }
+    ]
+}
